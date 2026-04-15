@@ -137,7 +137,7 @@ Feel free to fork this repo and contribute!
 ## 📧 Contact
 
 👤 Nikhil Kumawat
-📩 Email: [nikhilkumawat77689@gmail.com](mailto:your-email@example.com)
+📩 Email: [nikhilkumawat7689@gmail.com](mailto:your-email@example.com)
 
 ---
 
